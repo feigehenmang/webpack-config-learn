@@ -1,0 +1,23 @@
+{
+  "name": "webpack-config-learn",
+  "version": "1.0.0",
+  "description": "webpack-config-learn",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/feigehenmang/webpack-config-learn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/feigehenmang/webpack-config-learn/issues"
+  },
+  "homepage": "https://github.com/feigehenmang/webpack-config-learn#readme",
+  "dependencies": {
+    "webpack": "^5.37.1",
+    "webpack-cli": "^4.7.0"
+  }
+}
